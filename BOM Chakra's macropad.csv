@@ -1,0 +1,10 @@
+﻿Item,Description,Quantity,Unit Price ($),Total Price ($)
+XIAO RP2040,Main usb and brain,1,3.9,3.9
+MCP23017,I/O Expander Chip,1,1.69,1.69
+ Rotary Encoder EC11,Just like a switch knob to control audio etc.,2,1.99,3.98
+OLED Display, 0.91 inch screen 4 pin I2C,1,12.99,12.99
+SK6812MINI,RGB LEDs,2,0.07,0.14
+Keyswitches,Mechanical switches,6,0.4,2.4
+Keycaps,Plastic tops for switches,6,0.3,1.8
+1N4148 Diode,Small orange parts,6,0.05,0.3
+Resistors,Small parts,2,0.06,0.12
